@@ -4,4 +4,5 @@ add user_2 3
 add user_2 5
 add user_1 4
 add user_2 7
+add user_1 6
 
